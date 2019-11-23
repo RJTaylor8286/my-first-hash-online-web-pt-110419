@@ -13,6 +13,7 @@ shipping_manifest = {
   "oil painting" => 3
 } 
 
+the_manifest = [shipping_manifest]
 
 end
 
