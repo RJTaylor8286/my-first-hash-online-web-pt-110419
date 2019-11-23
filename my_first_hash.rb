@@ -1,4 +1,4 @@
-video_games = {"ps4" ==> "God of War"
+video_games = {"ps4" ==> "God of War", "nintendo" ==> "Zelda", "xbox" ==> "Gears of War"
   
 end
 
