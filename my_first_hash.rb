@@ -1,12 +1,17 @@
-video_games = {"ps4" ==> "God of War", "nintendo" ==> "Zelda", "xbox" ==> "Gears of War"
-  
+video_games = {
+  "ps4" ==> "God of War", 
+  "nintendo" ==> "Zelda", 
+  "xbox" ==> "Gears of War"
+}
 end
 
 
-shipping_manifest 
-  # set a variable called `the_manifest`, equal to a hash
-  # fill that hash with key/value pairs that describe the following information: 
-  # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
+
+shipping_manifest = {
+  "whale bone corset" => 5,
+  "porcelain vase" => 2,
+  "oil painting" => 3
+} 
 
 
 end
