@@ -1,4 +1,4 @@
-video_games 
+video_games = {
   
 end
 
