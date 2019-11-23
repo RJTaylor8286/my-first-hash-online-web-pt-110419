@@ -17,7 +17,7 @@ the_manifest = [shipping_manifest]
 
 end
 
-shipping_manifest[whale_bone_corsets]
+shipping_manifest["whale bone corsets"]
 
 end
 
